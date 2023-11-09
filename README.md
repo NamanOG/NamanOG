@@ -28,13 +28,10 @@
     <a href="https://www.namanbagdiya.co/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-logo?style=for-the-badge&logo=authy&logoColor=white&color=%230f3c4c" height="25" alt="Portfolio logo"  />
     </a>
-  </div>
-  <a href="https://monkeytype.com/profile/NamanOG">
-   <img src="https://raw.githubusercontent.com/NamanOG/NamanOG/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
+ <a href="https://monkeytype.com/profile/NamanOG">
+   <img src="https://img.shields.io/badge/Monkeytype-E2B714?logo=monkeytype&logoColor=fff&style=for-the-badge" height="25" alt="My Monkeytype profile" />
  </a>
-
-###
-
+</div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=NamanOG">
 </div>
@@ -47,13 +44,14 @@
 
 - 󠀠 📍 󠀠 󠀠I Live in __Raipur, Chhattisgarh__
 
-- 🎓 Pursuing **B.E in CSE** at <ins>**RV Institute of Technology, Bangalore**</ins>
+- 🎓 Pursuing __B.E in CSE__ at <ins>__RV Institute of Technology, Bangalore__</ins>
 
 - 🔭 I’m currently learning **Js, Python and Kotlin**
 
 - 🛰️ I’m currently working on this project in my freetime ➟ <a href="https://namanog.github.io/Win11/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/800px-Windows_logo_-_2021.svg.png" alt="namanogmusic" height="30" width="40" /> Windows 11</a>
 
 - <a href="https://music.apple.com/profile/NamanOG" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_Music_icon.svg" alt="namanogmusic" height="30" width="40" /></a>    Listening to some Music !
+
 </p>
 
 ###
