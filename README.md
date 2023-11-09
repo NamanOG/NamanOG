@@ -28,10 +28,10 @@
     <a href="https://www.namanbagdiya.co/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-logo?style=for-the-badge&logo=authy&logoColor=white&color=%230f3c4c" height="25" alt="Portfolio logo"  />
     </a>
+  </div>
   <a href="https://monkeytype.com/profile/NamanOG">
    <img src="https://raw.githubusercontent.com/NamanOG/NamanOG/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
  </a>
-</div>
 
 ###
 
