@@ -25,7 +25,7 @@
   </a>
 </div>
 <div align="center">
-    <a href="https://www.namanbagdiya.co/" target="_blank">
+    <a href="https://www.namanbagdiya.me/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-logo?style=for-the-badge&logo=authy&logoColor=white&color=%230f3c4c" height="25" alt="Portfolio logo"  />
     </a>
  <a href="https://monkeytype.com/profile/NamanOG">
