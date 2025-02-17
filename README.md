@@ -79,7 +79,7 @@
 <h3 align="center">📈 Coding Activity</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@NamanOG&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@NamanOG&theme=radical&v=2" height="150" />
 </div>
 
 ---
