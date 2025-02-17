@@ -70,8 +70,8 @@
 <h3 align="center">🔥 Contributions</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanOG&theme=radical" height="150" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NamanOG&theme=radical" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanOG&theme=radical" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamanOG&theme=github-compact" height="200" />
 </div>
 
 ---
