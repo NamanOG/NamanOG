@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" height="400" alt="Animated GIF" />
+  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="700" height="400" alt="Animated GIF" />
 </p>
 
 ---
@@ -37,25 +37,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<p align="left">  <ul>  <li>📍 Based in <strong>Raipur, Chhattisgarh</strong></li>
-    <li>🎓 Pursuing <strong>B.E in CSE</strong> at <strong>RV Institute of Technology, Bangalore</strong></li>
-    <li>🔭 Currently learning <strong>JavaScript, Python, Kotlin</strong></li>
-    <li>🛰️ Working on <a href="https://namanog.github.io/Win11/">Windows 11 Web</a></li>
-    <li>🎵 Some music: <a href="https://music.apple.com/profile/NamanOG" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_Music_icon.svg" alt="Apple Music" height="20" width="20" /></a></li>
-  </ul>
-</p>
+<ul>
+  <li>📍 Based in <strong>Raipur, Chhattisgarh</strong></li>
+  <li>🎓 Pursuing <strong>B.E in CSE</strong> at <strong>RV Institute of Technology, Bangalore</strong></li>
+  <li>🔭 Currently learning <strong>JavaScript, Python, Kotlin</strong></li>
+  <li>🛰️ Working on <a href="https://namanog.github.io/Win11/">Windows 11 Web</a></li>
+  <li>🎵 Some music: <a href="https://music.apple.com/profile/NamanOG" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_Music_icon.svg" alt="Apple Music" height="20" width="20" /></a></li>
+</ul>
 
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <h3>💻 Web Development</h3>
+  <strong>💻 Web Development</strong><br>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb" height="50" alt="Web Dev Icons" />
 </p>
 
 <p align="center">
-  <h3>📝 Languages</h3>
+  <strong>📝 Languages</strong><br>
   <img src="https://skillicons.dev/icons?i=cpp,python,kotlin" height="50" alt="Language Icons" />
 </p>
 
@@ -83,7 +83,7 @@
 <h3 align="center">📈 Coding Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@NamanOG&theme=radical&v=2&refresh=1" height="150" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NamanOG&theme=radical" height="150" alt="WakaTime Stats" />
 </p>
 
 ---
