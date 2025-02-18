@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naman Bagdiya</h1>
-<h3 align="center">🚀 Digital Artisan | Developer | Creator</h3>
-
----
 
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="700" height="400" alt="Animated GIF" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="700" height="400" alt="Animated GIF" />
 </p>
 
 ---
@@ -33,8 +30,8 @@
 
 <h3 align="center">📜 About Me</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<p align="center" style="font-size: 30px; font-weight: bold;">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Web+Developer;Music+Enthusiast;Digital+Artisan;Open-Source+Contributor;Food+Enthusiast" alt="Typing SVG" />
 </p>
 
 <ul>
@@ -55,7 +52,7 @@
 </p>
 
 <p align="center">
-  <strong>📝 Languages</strong><br>
+  <strong>📝 Other Languages</strong><br>
   <img src="https://skillicons.dev/icons?i=cpp,python,kotlin" height="50" alt="Language Icons" />
 </p>
 
