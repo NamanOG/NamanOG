@@ -35,7 +35,7 @@
 </p>
 
 <ul>
-  <li>📍 Based in <strong>Raipur, Chhattisgarh</strong></li>
+  <li>📍 Based in <strong>Ahamdabad,Gujarat</strong></li>
   <li>🎓 Pursuing <strong>B.E in CSE</strong> at <strong>RV Institute of Technology, Bangalore</strong></li>
   <li>🔭 Currently learning <strong>JavaScript, Python, Kotlin</strong></li>
   <li>🛰️ Working on <a href="https://namanog.github.io/Win11/">Windows 11 Web</a></li>
