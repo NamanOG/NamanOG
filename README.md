@@ -39,7 +39,7 @@
   <li>🎓 Pursuing <strong>B.E in CSE</strong> at <strong>RV Institute of Technology, Bangalore</strong></li>
   <li>🔭 Currently learning <strong>JavaScript, Python, Kotlin</strong></li>
   <li>🛰️ Working on <a href="https://namanog.github.io/Win11/">Windows 11 Web</a></li>
-  <li>🎵 Some music: <a href="https://music.apple.com/profile/NamanOG" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_Music_icon.svg" alt="Apple Music" height="20" width="20" /></a></li>
+  <li> <a href="https://music.apple.com/profile/NamanOG" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_Music_icon.svg" alt="Apple Music" height="20" width="20" /></a> Some music</li>
 </ul>
 
 ---
