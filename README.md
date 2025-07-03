@@ -1,92 +1,112 @@
-<h1 align="center">Hi 👋, I'm Naman Bagdiya</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=120&section=header&text=Naman%20Bagdiya&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+</div>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="700" height="400" alt="Animated GIF" />
-</p>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="700" height="400" alt="Coding Animation" />
+</div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Web+Developer+%F0%9F%92%BB;Music+Enthusiast+%F0%9F%8E%B5;Digital+Artisan+%F0%9F%8E%A8;Open-Source+Contributor+%F0%9F%8C%9F;Food+Enthusiast+%F0%9F%8D%95" alt="Typing SVG" />
+</div>
 
-<h3 align="center">🌐 Connect with me</h3>
+<br>
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/namanbagdiya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/namaan_b" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://discordapp.com/users/932995196101201951" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://www.hackerrank.com/namanbagdiya" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="30" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://www.namanbagdiya.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f3c4c?style=for-the-badge&logo=authy&logoColor=white" height="30" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
+  <a href="https://music.apple.com/profile/NamanOG" target="_blank">
+    <img src="https://img.shields.io/badge/Apple%20Music-%23FA243C.svg?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music"/>
+  </a>
+</div>
 
----
+<br>
 
-<h3 align="center">📜 About Me</h3>
+## 📜 About Me
 
-<p align="center" style="font-size: 30px; font-weight: bold;">
- <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Web+Developer;Music+Enthusiast;Digital+Artisan;Open-Source+Contributor;Food+Enthusiast" alt="Typing SVG" />
-</p>
+- 📍 Based in **Raipur, Chhattisgarh**
+- 🎓 Pursuing **B.E in CSE** at **RV Institute of Technology, Bangalore**
+- 🔭 Currently learning **Full stack**
+- 🛰️ All my projects are available in my repos, some are private.
+- 🎵 Some of my music playlists: [Apple Music](https://music.apple.com/profile/NamanOG)
 
-<ul>
-  <li>📍 Based in <strong>Raipur, Chhattisgarh</strong></li>
-  <li>🎓 Pursuing <strong>B.E in CSE</strong> at <strong>RV Institute of Technology, Bangalore</strong></li>
-  <li>🔭 Currently learning <strong>JavaScript, Python, Kotlin</strong></li>
-  <li>🛰️ Working on <a href="https://namanog.github.io/Win11/">Windows 11 Web</a></li>
-  <li> <a href="https://music.apple.com/profile/NamanOG" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_Music_icon.svg" alt="Apple Music" height="20" width="20" /></a> Some music</li>
-</ul>
+## 🎯 Currently Working On
 
----
+- [Raipur.life](https://raipurlife.vercel.app/)
 
-<h2 align="center">🛠️ Tech Stack</h2>
+A Community-driven guide to the best places, authentic food, and unforgettable experiences in the heart of Chhattisgarh
 
-<p align="center">
-  <strong>💻 Web Development</strong><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb" height="50" alt="Web Dev Icons" />
-</p>
+## 🌱 Learning & Exploring
 
-<p align="center">
-  <strong>📝 Other Languages</strong><br>
-  <img src="https://skillicons.dev/icons?i=cpp,python,kotlin" height="50" alt="Language Icons" />
-</p>
+- Advanced JavaScript Concepts
+- Python for Backend Development  
+- Kotlin for Android Development
 
----
+## 💫 Open to Collaborate
 
-<h3 align="center">📊 My GitHub Stats</h3>
+- Web Development Projects
+- Open Source Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NamanOG&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NamanOG&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=NamanOG&theme=radical" height="150" alt="GitHub Trophies" />
-</p>
+<br>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NamanOG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=12" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NamanOG&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12" height="180"/>
+</div>
 
-<h3 align="center">🔥 Contributions</h3>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanOG&theme=radical" height="170" alt="Streak Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamanOG&theme=github-compact" height="200" alt="Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanOG&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&border_radius=12" height="180"/>
+</div>
 
----
+<br>
 
-<h3 align="center">📈 Coding Activity</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NamanOG&theme=radical" height="150" alt="WakaTime Stats" />
-</p>
+**🛠️ Tech Stack**
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,cpp,kotlin,git,github,vscode,figma&theme=dark" />
 
-<h3 align="center">🚀 Keep Exploring</h3>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NamanOG&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamanOG&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&area_color=21262d" height="200"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NamanOG&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NamanOG&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12" height="180"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NamanOG&style=for-the-badge&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=80&section=footer"/>
+</div>
