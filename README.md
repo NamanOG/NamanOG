@@ -46,12 +46,14 @@
 ## 🎯 Currently Working On
 
 ### [Raipur.life](https://raipurlife.vercel.app/)
-A Community-driven guide to the best places, authentic food, and unforgettable experiences in the heart of Chhattisgarh
+• A Community-driven guide to the best places, authentic food, and unforgettable experiences in the heart of Chhattisgarh
+
+
+### [Mercedes AMG F1 Landing page](https://amg-formula1.vercel.app/)
+• A sleek and responsive landing page showcasing the Mercedes-AMG Petronas Formula 1 team
 
 ---
 
-### [Mercedes AMG F1 Landing page](https://yourproject.com/)
-Description of your second project goes here
 ## 🌱 Learning & Exploring
 
 - Advanced JavaScript Concepts
