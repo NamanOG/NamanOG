@@ -25,7 +25,7 @@
   <a href="https://www.hackerrank.com/namanbagdiya" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://www.namanbagdiya.me/" target="_blank">
+  <a href="https://naman-portfolio-sable.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://music.apple.com/profile/NamanOG" target="_blank">
