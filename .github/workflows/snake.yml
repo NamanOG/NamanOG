@@ -1,5 +1,4 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.3.0
+name: GitHub Contributions Snake
 
 on:
   schedule:
@@ -19,8 +18,8 @@ jobs:
         run: mkdir -p output
 
       # Step 3: Generate the snake SVG
-      - name: Generate Snake animation
-        uses: platane/snk@v1.1.0
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.3.0
         with:
           github_user_name: NamanOG
           svg_out_path: 'output/github-contribution-grid-snake.svg'
