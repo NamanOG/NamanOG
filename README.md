@@ -105,12 +105,14 @@
   <img src="https://komarev.com/ghpvc/?username=NamanOG&style=for-the-badge&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=80&section=footer"/>
+</div>
+
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NamanOG/NamanOG/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+  
+![snake gif](https://github.com/NamanOG/NamanOG/blob/output/github-snake-dark.svg)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=80&section=footer"/>
 </div>
