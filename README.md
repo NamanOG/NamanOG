@@ -51,10 +51,13 @@
 ## 🎯 Currently Working On
 
 ### [Raipur.life](https://raipurlife.vercel.app/)
-• A Community-driven guide to the best places, authentic food, and unforgettable experiences in the heart of Chhattisgarh
+• A Community-driven guide to the best places, authentic food, and unforgettable experiences in the heart of Chhattisgarh.
 
-### [Mercedes AMG F1 Landing page](https://amg-formula1.vercel.app/)
-• A sleek and responsive landing page showcasing the Mercedes-AMG Petronas Formula 1 team
+### [EdenNori](https://eden-nori.vercel.app/)
+• A modern, tech-enabled cloud kitchen delivering authentic Asian vegetarian cuisine.
+
+### [F1 Station]()
+• A High performance Formula 1 website focusses on stats of teams, their position, etc.
 
 ---
 
