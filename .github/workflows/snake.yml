@@ -50,9 +50,9 @@ jobs:
 
       # Step 2: Generate the snake animations
 
-      - name: Generate GitHub Contributions Snake Animations
+      - name: generate-snake-game-from-github-contribution-grid
 
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3.3.0
 
         with:
 
