@@ -9,18 +9,22 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Checkout the repository
+      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the snake SVG
+      # Step 2: Make sure output folder exists
+      - name: Create output folder if missing
+        run: mkdir -p output
+
+      # Step 3: Generate the snake SVG
       - name: Generate Snake animation
         uses: platane/snk@v1.1.0
         with:
           github_user_name: NamanOG
           svg_out_path: 'output/github-contribution-grid-snake.svg'
 
-      # Step 3: Commit and push the generated SVG
+      # Step 4: Commit and push the SVG
       - name: Commit and push snake SVG
         run: |
           git config user.name "github-actions[bot]"
