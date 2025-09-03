@@ -1,0 +1,20 @@
+name: GitHub Contributions Snake
+
+on:
+  schedule:
+    # Runs daily at 00:00 ITC
+    cron: '18 18 * * *'
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake animation
+        uses: platane/snk@v1.1.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: 'output/github-contribution-grid-snake.svg'
