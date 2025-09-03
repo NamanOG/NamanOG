@@ -15,5 +15,5 @@ jobs:
       - name: Generate Snake animation
         uses: platane/snk@v1.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: 'output/github-contribution-grid-snake.svg'
+          github_user_name: NamanOG
+          svg_out_path: 'output/github-contribution-grid-snake.svg'
