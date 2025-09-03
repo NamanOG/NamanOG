@@ -2,8 +2,7 @@ name: GitHub Contributions Snake
 
 on:
   schedule:
-    # Runs daily at 00:00 ITC
-    cron: '18 18 * * *'
+    - cron: '18 18 * * *'  # Runs daily at 00:00 IST
   workflow_dispatch:
 
 jobs:
