@@ -31,6 +31,9 @@
   <a href="https://music.apple.com/profile/NamanOG" target="_blank">
     <img src="https://img.shields.io/badge/Apple%20Music-%23FA243C.svg?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music"/>
   </a>
+  <a href="https://monkeytype.com/user/NamanOG" target="_blank">
+  <img src="https://img.shields.io/badge/Monkeytype-%23FFD700.svg?style=for-the-badge&logo=monkeytype&logoColor=white" alt="Monkeytype"/>
+</a>
 </div>
 
 <br>
@@ -41,13 +44,14 @@
 - 🎓 Pursuing **B.E in CSE** at **RV Institute of Technology, Bangalore**
 - 🔭 Currently learning **Full stack**
 - 🛰️ All my projects are available in my repos, some are private.
-- 🎵 Some of my music playlists: [Apple Music](https://music.apple.com/profile/NamanOG)
+- 🎵 Some of my music playlists: <a href="https://music.apple.com/profile/NamanOG" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_Music_icon.svg" alt="Apple Music" width="20" height="20" style="vertical-align:middle;"/>
+  </a>
 
 ## 🎯 Currently Working On
 
 ### [Raipur.life](https://raipurlife.vercel.app/)
 • A Community-driven guide to the best places, authentic food, and unforgettable experiences in the heart of Chhattisgarh
-
 
 ### [Mercedes AMG F1 Landing page](https://amg-formula1.vercel.app/)
 • A sleek and responsive landing page showcasing the Mercedes-AMG Petronas Formula 1 team
@@ -65,12 +69,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NamanOG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=12" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NamanOG&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12" height="180"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanOG&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&border_radius=12" height="180"/>
 </div>
 
 <br>
@@ -105,6 +103,12 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NamanOG&style=for-the-badge&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NamanOG/NamanOG/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
