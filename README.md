@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Web+Developer+%F0%9F%92%BB;Music+Enthusiast+%F0%9F%8E%B5;Digital+Artisan+%F0%9F%8E%A8;Open-Source+Contributor+%F0%9F%8C%9F;Food+Enthusiast+%F0%9F%8D%95" alt="Typing SVG" />
 </div>
 
-<br>
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/namanbagdiya/" target="_blank">
@@ -25,7 +25,7 @@
   <a href="https://www.hackerrank.com/namanbagdiya" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://naman-portfolio-sable.vercel.app/" target="_blank">
+  <a href="https://namanbagdiya.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://music.apple.com/profile/NamanOG" target="_blank">
@@ -36,7 +36,7 @@
 </a>
 </div>
 
-<br>
+---
 
 ## 📜 About Me
 
@@ -46,7 +46,9 @@
 - 🛰️ All my projects are available in my repos, some are private.
 - 🎵 Some of my music playlists: <a href="https://music.apple.com/profile/NamanOG" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_Music_icon.svg" alt="Apple Music" width="20" height="20" style="vertical-align:middle;"/>
-  </a>
+</a>
+
+---
 
 ## 🎯 Currently Working On
 
@@ -56,7 +58,7 @@
 ### [EdenNori](https://eden-nori.vercel.app/)
 • A modern, tech-enabled cloud kitchen delivering authentic Asian vegetarian cuisine.
 
-### [F1 Station]()
+### [F1 Station](https://github.com/NamanOG/NamanOG/blob/main)
 • A High performance Formula 1 website focusses on stats of teams, their position, etc.
 
 ---
@@ -67,14 +69,14 @@
 - Python for Backend Development  
 - Kotlin for Android Development
 
-<br>
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NamanOG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=12" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NamanOG&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12" height="180"/>
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -84,25 +86,25 @@
 
 </div>
 
-<br>
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamanOG&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&area_color=21262d" height="200"/>
 </div>
 
-<br>
+---
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NamanOG&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
-<br>
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NamanOG&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12" height="180"/>
 </div>
 
-<br>
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NamanOG&style=for-the-badge&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
@@ -112,7 +114,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=80&section=footer"/>
 </div>
 
-<br>
+---
 
 <div align="center">
   
