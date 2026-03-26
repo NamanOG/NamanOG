@@ -52,7 +52,7 @@
 
 ## 🎯 Currently Working On
 
-### [Raipur.life](https://raipurlife.vercel.app/)
+### [Raipur.life](https://raipur.life/)
 • A Community-driven guide to the best places, authentic food, and unforgettable experiences in the heart of Chhattisgarh.
 
 ### [EdenNori](https://eden-nori.vercel.app/)
