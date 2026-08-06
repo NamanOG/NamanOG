@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Web+Developer+%F0%9F%92%BB;Music+Enthusiast+%F0%9F%8E%B5;Digital+Artisan+%F0%9F%8E%A8;Open-Source+Contributor+%F0%9F%8C%9F;Food+Enthusiast+%F0%9F%8D%95" alt="Typing SVG" />
 </div>
 
+  <div align="center">
+  <a href="https://codetime.dev"><img alt="CodeTime Status" src="https://codetime.dev/api/widgets/status.svg?uid=36640&theme=light&style=minimal"></a>
+</div>
+
 ---
 
 <div align="center">
@@ -84,12 +88,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,cpp,kotlin,git,github,vscode,figma&theme=dark" />
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamanOG&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&area_color=21262d" height="200"/>
 </div>
 
 ---
