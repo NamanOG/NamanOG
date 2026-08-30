@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=120&section=header&text=Naman%20Bagdiya&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=120&section=header&text=Naman%20Bagdiya&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlign=50" width="100%" alt="Header"/>
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;Product+Builder+%F0%9F%9A%80;Creative+Developer+%F0%9F%96%A5%EF%B8%8F;Tech+Enthusiast+%F0%9F%8E%B5;Digital+Artisan+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Electron+%26+Desktop+Apps;UI%2FUX+Enthusiast;Music+Technology+Explorer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -202,11 +202,39 @@ Features an interactive **vinyl-style turntable**, playback controls, progress s
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NamanOG&theme=onedark&row=1&column=7&no-frame=false&no-bg=true)](https://github.com/NamanOG)
+
+</div>
+
+---
+
 ## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NamanOG&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NamanOG&theme=github-dark&hide_border=false&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/NamanOG)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamanOG&theme=github_dark&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&line_height=24)](https://github.com/NamanOG)
+
+</div>
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOG&theme=github_dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/NamanOG)
 
 </div>
 
@@ -234,18 +262,18 @@ Features an interactive **vinyl-style turntable**, playback controls, progress s
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=NamanOG&style=for-the-badge&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=NamanOG&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/NamanOG)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=80&section=footer&width=100%" alt="Footer"/>
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://github.com/NamanOG/NamanOG/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
+![GitHub Contribution Snake](https://github.com/NamanOG/NamanOG/blob/output/github-snake-dark.svg)
 
 </div>
