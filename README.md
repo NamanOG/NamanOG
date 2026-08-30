@@ -128,38 +128,17 @@ Database Design       ██████████████░░░░░�
 
 ### 🏆 GitHub Trophies
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=NamanOG&theme=onedark&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</a>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NamanOG&theme=onedark&column=6&margin-w=15&margin-h=15&no-frame=false)
 
-### 📈 GitHub Activity Graph
+### 📈 GitHub Stats
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://activity-graph.herokuapp.com/graph?username=NamanOG&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="GitHub Activity Graph"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamanOG&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=true&count_private=true)
 
-### 📊 GitHub Statistics
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOG&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=true)
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="400" src="https://github-readme-stats.vercel.app/api?username=NamanOG&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=true&count_private=true" alt="GitHub Stats"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOG&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="Top Languages"/>
-      </a>
-    </td>
-  </tr>
-</table>
+### 📈 Contribution Graph
 
-### ⚡ Contribution Stats
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NamanOG&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="Wakatime Stats"/>
-</a>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NamanOG&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)
 
 </div>
 
@@ -195,9 +174,7 @@ Database Design       ██████████████░░░░░�
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.namanbagdiya.tech/">
-  <img src="https://komarev.com/ghpvc/?username=NamanOG&style=for-the-badge&color=58a6ff&label=Visitors" alt="Profile Views"/>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=NamanOG&style=for-the-badge&color=58a6ff&label=Visitors)
 
 </div>
 
