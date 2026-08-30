@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=120&section=header&text=Naman%20Bagdiya&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlign=50" width="100%" alt="Header"/>
-</div>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="700" height="400" alt="Coding Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=120&section=header&text=Naman%20Bagdiya&fontSize=40&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Header"/>
 </div>
 
 <div align="center">
@@ -56,191 +52,110 @@
 
 I'm a Computer Science student and developer who enjoys building **polished, interactive products** where engineering, design, and real-world usability come together.
 
-- 📍 Based in **Raipur, Chhattisgarh**
-- 🎓 Pursuing **B.E. in Computer Science Engineering** at **RV Institute of Technology, Bangalore**
-- 💻 Building **full-stack web applications and desktop software**
-- 🖥️ Exploring **Electron, system-level integrations, and desktop experiences**
-- 🎨 Interested in **UI/UX, motion, visual design, and product polish**
-- 🎵 Passionate about **music and music technology**
-- 🚀 Constantly experimenting with new ideas, technologies, and side projects
-- 📂 Most of my work lives in my repositories — some projects are private
+- 📍 Based in **Raipur, Chhattisgarh** | 🎓 **B.E. in CS Engineering** at RV Institute of Technology, Bangalore
+- 💻 Full-stack web applications & desktop software | 🖥️ Electron & system-level integrations
+- 🎨 UI/UX design & motion | 🎵 Music technology & interactive experiences
+
+---
+
+## 🎧 Now Exploring
+
+<div align="center">
+
+> 🎵 **Music is my creative fuel** — Building experiences that feel tactile, responsive, and beautiful
+
+</div>
 
 ---
 
 ## 🚀 Featured Work
 
-### 🎧 [Kissa](https://github.com/NamanOG/Kissa)
+### 🎧 [Kissa](https://github.com/NamanOG/Kissa) — *Premium Desktop Music Player*
+Interactive **vinyl-inspired listening experience** with hi-fi spectrum visualization, real-time lyrics, and 60–120 FPS smooth interactions. `v4.0.0` | **[Explore](https://github.com/NamanOG/Kissa)**
 
-A premium desktop music player built around a **vinyl-inspired listening experience**, combining modern software engineering with an editorial, tactile interface.
+### 🌆 [Raipur.life](https://raipur.life/) — *Local Discovery Platform*
+Community-driven guide to **Raipur & Chhattisgarh** with food, events, and tourism. **[Visit](https://raipur.life/)**
 
-**Highlights**
+### ⚽ [Casa Del Futbol](https://github.com/NamanOG/CasaDelFutbol) — *2026 FIFA World Cup Hub*
+Interactive tournament experience with stadiums, nation pages, and tactical visualizations. **[Explore](https://github.com/NamanOG/CasaDelFutbol)**
 
-- 🎛️ Interactive vinyl turntable with tonearm & groove tracking
-- ⚡ Optimized for smooth **60–120 FPS** interactions
-- 🎵 Real-time synchronized lyrics
-- 🔊 Windows system-volume synchronization
-- 📊 Organic multi-band Hi-Fi audio spectrum visualizer
-- 🪟 Windows **SMTC** integration
-- 🖼️ Robust album artwork extraction & fallback handling
-- 🌙 Sleep timer
-- ⌨️ Keyboard shortcuts & quick-reference overlay
-- ⚙️ Custom settings and onboarding experience
-- 🔄 Automatic GitHub release/update checking
-- 📦 Custom Electron packaging & branded installers
-- 🧪 Unit testing and production-focused refinement
+### 🏎️ [F1 Station](https://github.com/NamanOG/F1-Station) — *Formula 1 Platform*
+Team stats, standings, drivers, and race data in a fast, visual interface.
 
-**Latest Release:** `v4.0.0`
+### 🎵 [Music Station](https://github.com/NamanOG/Music-station) — *Interactive Turntable*
+Experimental music-player recreating physical hardware through a modern web experience.
 
----
+<details open>
+<summary><b>→ More Projects</b></summary>
 
-### 🌆 [Raipur.life](https://raipur.life/)
+| 🎨 VividGlyph | 🔤 GlyphCode | 🎮 Game Frame | 🍱 EdenNori | 🛣️ RoadWatch | 🍎 Apple Music UI | 🖥️ Portfolio NEXT | 🔗 LinkFolio | 🎰 Windows XP Pinball |
+|---|---|---|---|---|---|---|---|---|
 
-A community-driven digital guide to **Raipur and Chhattisgarh**, focused on discovering authentic food, places, experiences, events, tourism and local culture.
-
-- 🗺️ Local discovery
-- 🍜 Food & experiences
-- 🎉 Events
-- 🏙️ Tourism
-- 📱 Responsive UI
-- ✨ Motion-driven interactions
-- 🔎 Search & navigation
+</details>
 
 ---
 
-### ⚽ [Casa Del Futbol](https://github.com/NamanOG/CasaDelFutbol)
-
-An interactive football experience built around the **2026 FIFA World Cup**, featuring rich visualizations and tournament-focused experiences.
-
-- 🏆 Interactive World Cup hub
-- 🏟️ Stadium information
-- 🌍 Nation detail pages
-- 📊 Tournament & group-stage dashboards
-- 🧑‍💼 Player role breakdowns
-- 📡 Football API integration
-- 🎨 Tactical visualizations
-- 🧊 Interactive 3D trophy experience
-- 🎞️ Motion-driven UI
-
----
-
-### 🏎️ [F1 Station](https://github.com/NamanOG/F1-Station)
-
-A Formula 1-focused platform built around **team statistics, standings, drivers and race information**.
-
-Designed to explore data-heavy interfaces while keeping the experience fast, visual and easy to navigate.
-
----
-
-### 🎵 [Music Station](https://github.com/NamanOG/Music-station)
-
-An experimental music-player interface focused on recreating the tactile feeling of physical music hardware through a modern web experience.
-
-Features an interactive **vinyl-style turntable**, playback controls, progress scrubbing and a custom music-player architecture.
-
----
-
-## 🧪 Other Projects
-
-| Project | Description |
-|---|---|
-| 🎨 **VividGlyph** | Visual and creative interface experimentation |
-| 🔤 **GlyphCode** | Developer-focused typography and code experimentation |
-| 🎮 **Game Frame** | Interactive gaming-focused project |
-| 🍱 **EdenNori** | Digital experience for an Asian vegetarian cloud kitchen |
-| 🛣️ **RoadWatch** | Road and civic-focused project |
-| 🍎 **Apple Music** | Music-focused interface experimentation |
-| 🖥️ **Portfolio NEXT** | Next-generation personal portfolio |
-| 🔗 **LinkFolio** | Personal links and profile experience |
-| 🎰 **Windows XP Pinball** | Recreation and experimentation with a classic Windows experience |
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,kotlin&theme=dark" />
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
-</p>
-
-### Backend & Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase&theme=dark" />
-</p>
-
-### Desktop & Systems
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=electron,windows&theme=dark" />
-</p>
-
-### Tools & Workflow
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" />
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-- ⚡ Advanced **TypeScript & JavaScript**
-- ⚛️ Modern **React architecture**
-- 🖥️ **Electron & desktop application development**
-- 🔌 Native and system-level integrations
-- 🎨 Advanced UI/UX and motion design
-- 🚀 Performance optimization and rendering
-- 🧪 Testing and production-grade development
-- ☁️ Backend architecture and deployment
-
----
-
-## 📊 GitHub Statistics
+## 💪 Skill Proficiency Matrix
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+### Core Competencies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NamanOG&theme=onedark&row=1&column=7&no-frame=false&no-bg=true)](https://github.com/NamanOG)
+```
+TypeScript/JavaScript  ████████████████████ 95%
+React & Next.js       ████████████████████ 94%
+Electron & Desktop    ████████████████░░░░ 88%
+UI/UX & Animation     ███████████████░░░░░ 85%
+Node.js & Backend     ███████████████░░░░░ 84%
+Web Performance       ██████████████░░░░░░ 82%
+System Integration    █████████████░░░░░░░ 78%
+Database Design       ██████████████░░░░░░ 80%
+```
+
+### Tech Ecosystem
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,electron,tailwind,vite,mongodb,supabase,git,github,figma,vercel&theme=dark&perline=8" />
+</p>
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
+## 📊 Development Insights
 
 <div align="center">
 
+### GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NamanOG&theme=onedark&row=1&column=6&no-frame=false&no-bg=true)](https://github.com/NamanOG)
+
+### GitHub Activity
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NamanOG&theme=github-dark&hide_border=false&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/NamanOG)
 
-</div>
+### Stats Snapshot
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamanOG&theme=github_dark&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/NamanOG)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamanOG&theme=github_dark&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&line_height=24)](https://github.com/NamanOG)
-
-</div>
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOG&theme=github_dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/NamanOG)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOG&theme=github_dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)](https://github.com/NamanOG)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 🎵 Music & Creative Interests
+
+> I'm passionate about building **beautiful, functional products** that blend music, technology, and design.
+
+- 🎛️ Music technology & audio processing
+- 🎨 Interactive UI/UX with motion & animation
+- 🖼️ Visual design & product polish
+- 🎶 Vinyl culture & analog aesthetics
+- 🎧 Audio visualization & spectrum analysis
+
+**Curated Spaces:** [Apple Music](https://music.apple.com/profile/NamanOG) • [Monkeytype](https://monkeytype.com/user/NamanOG)
+
+---
+
+## 🔗 Connect & Explore
 
 <div align="center">
 
@@ -256,21 +171,15 @@ Features an interactive **vinyl-style turntable**, playback controls, progress s
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=NamanOG&style=for-the-badge&color=58a6ff&label=Visitors)](https://github.com/NamanOG)
+
 </div>
 
 ---
 
 <div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=NamanOG&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/NamanOG)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=100&section=footer&width=100%" alt="Footer"/>
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=80&section=footer&width=100%" alt="Footer"/>
-</div>
-
----
 
 <div align="center">
 
