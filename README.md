@@ -73,23 +73,23 @@ I'm a Computer Science student and developer who enjoys building **polished, int
 ### 🎧 [Kissa](https://github.com/NamanOG/Kissa) — *Premium Desktop Music Player*
 Interactive **vinyl-inspired listening experience** with hi-fi spectrum visualization, real-time lyrics, and 60–120 FPS smooth interactions. `v4.0.0` | **[Explore](https://github.com/NamanOG/Kissa)**
 
-### 🌆 [Raipur.life](https://raipur.life/) — *Local Discovery Platform*
+### 🌆 [Raipur.life](https://github.com/NamanOG/raipurlife) — *Local Discovery Platform*
 Community-driven guide to **Raipur & Chhattisgarh** with food, events, and tourism. **[Visit](https://raipur.life/)**
 
 ### ⚽ [Casa Del Futbol](https://github.com/NamanOG/CasaDelFutbol) — *2026 FIFA World Cup Hub*
 Interactive tournament experience with stadiums, nation pages, and tactical visualizations. **[Explore](https://github.com/NamanOG/CasaDelFutbol)**
 
-### 🏎️ [F1 Station](https://github.com/NamanOG/F1-Station) — *Formula 1 Platform*
+### 🏎️ [F1 Station](https://github.com/NamanOG/AMG-Formula1) — *Formula 1 Platform*
 Team stats, standings, drivers, and race data in a fast, visual interface.
 
-### 🎵 [Music Station](https://github.com/NamanOG/Music-station) — *Interactive Turntable*
+### 🎵 [Music Station](https://github.com/NamanOG/Apple-Music) — *Interactive Turntable*
 Experimental music-player recreating physical hardware through a modern web experience.
 
 <details open>
 <summary><b>→ More Projects</b></summary>
 
-| 🎨 VividGlyph | 🔤 GlyphCode | 🎮 Game Frame | 🍱 EdenNori | 🛣️ RoadWatch | 🍎 Apple Music UI | 🖥️ Portfolio NEXT | 🔗 LinkFolio | 🎰 Windows XP Pinball |
-|---|---|---|---|---|---|---|---|---|
+| 🍱 [EdenNori](https://github.com/NamanOG/EdenNori) | 🛣️ [RoadWatch](https://github.com/NamanOG/RoadWatch) | 🔗 [LinkFolio](https://github.com/NamanOG/LinkFolio) | 🎰 [Pinball](https://github.com/NamanOG/WindowsXP-Pinball) | 🎨 [Awesome Profiles](https://github.com/NamanOG/awesome-github-profiles) |
+|---|---|---|---|---|
 
 </details>
 
@@ -122,28 +122,18 @@ Database Design       ██████████████░░░░░�
 
 ---
 
-## 📊 Development Insights
+## 📊 GitHub Stats & Achievements
 
 <div align="center">
 
-### 🏆 GitHub Stats & Achievements
+### 🏆 Real GitHub Statistics
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>📈 Profile Statistics</b><br><br>
-      <img src="https://img.shields.io/badge/Repositories-15+-blue?style=flat&logo=github" alt="Repos"/>
-      <img src="https://img.shields.io/badge/Followers-200+-green?style=flat&logo=github" alt="Followers"/>
-      <img src="https://img.shields.io/badge/Contributions-1000+-orange?style=flat&logo=github" alt="Contributions"/>
-    </td>
-    <td align="center" width="50%">
-      <b>💻 Tech Focus</b><br><br>
-      <img src="https://img.shields.io/badge/Full%20Stack-Expert-blueviolet?style=flat" alt="Full Stack"/>
-      <img src="https://img.shields.io/badge/Desktop%20Apps-Advanced-blue?style=flat" alt="Desktop"/>
-      <img src="https://img.shields.io/badge/UI%2FUX%20Design-Advanced-ff69b4?style=flat" alt="Design"/>
-    </td>
-  </tr>
-</table>
+| Metric | Count |
+|--------|-------|
+| 📦 **Public Repositories** | [16](https://github.com/NamanOG?tab=repositories) |
+| ⭐ **Total Stars** | 5 |
+| 🔀 **Forks Received** | 5 |
+| 🎯 **Focus Areas** | Full-Stack, Desktop Apps, UI/UX |
 
 ### 📈 GitHub Activity
 
