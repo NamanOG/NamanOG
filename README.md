@@ -126,19 +126,32 @@ Database Design       ██████████████░░░░░�
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Stats & Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NamanOG&theme=onedark&column=6&margin-w=15&margin-h=15&no-frame=false)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>📈 Profile Statistics</b><br><br>
+      <img src="https://img.shields.io/badge/Repositories-15+-blue?style=flat&logo=github" alt="Repos"/>
+      <img src="https://img.shields.io/badge/Followers-200+-green?style=flat&logo=github" alt="Followers"/>
+      <img src="https://img.shields.io/badge/Contributions-1000+-orange?style=flat&logo=github" alt="Contributions"/>
+    </td>
+    <td align="center" width="50%">
+      <b>💻 Tech Focus</b><br><br>
+      <img src="https://img.shields.io/badge/Full%20Stack-Expert-blueviolet?style=flat" alt="Full Stack"/>
+      <img src="https://img.shields.io/badge/Desktop%20Apps-Advanced-blue?style=flat" alt="Desktop"/>
+      <img src="https://img.shields.io/badge/UI%2FUX%20Design-Advanced-ff69b4?style=flat" alt="Design"/>
+    </td>
+  </tr>
+</table>
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamanOG&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=true&count_private=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NamanOG&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOG&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=true)
+### 🐍 Contribution Snake
 
-### 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NamanOG&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)
+![GitHub Contribution Snake](https://github.com/NamanOG/NamanOG/blob/output/github-snake-dark.svg)
 
 </div>
 
@@ -182,10 +195,4 @@ Database Design       ██████████████░░░░░�
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=100&section=footer&width=100%" alt="Footer"/>
-</div>
-
-<div align="center">
-
-![GitHub Contribution Snake](https://github.com/NamanOG/NamanOG/blob/output/github-snake-dark.svg)
-
 </div>
