@@ -60,7 +60,7 @@ and ambient listening rooms, following your active music session.
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/tech-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/tech-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/tech-dark.svg">
-  <img src="assets/tech-light.svg" width="100%" alt="Languages: TypeScript, JavaScript, Python, Java, C/C++. Frontend: React, Next.js, Tailwind CSS, HTML, CSS. Backend: Node.js, Express, REST APIs. Tools: Git, Figma, Docker, Vercel, DaVinci Resolve.">
+  <img src="assets/tech-light.svg" width="600" alt="Languages: TypeScript, JavaScript, Python, Java, C/C++. Frontend: React, Next.js, Tailwind CSS, HTML, CSS. Backend: Node.js, Express, REST APIs. Tools: Git, Figma, Docker, Vercel, DaVinci Resolve.">
 </picture>
 
 <sub>For Kissa: Electron, React, TypeScript, and C#.</sub>
@@ -78,14 +78,14 @@ The contribution calendar, taking the scenic route.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats/streak-dark.svg">
-  <img src="stats/streak-light.svg" alt="NamanOG coding cadence and streak: current streak, annual output, and 14-day velocity" width="100%">
+  <img src="stats/streak-light.svg" alt="NamanOG coding cadence and streak: current streak, annual output, and 14-day velocity" width="600">
 </picture>
 
 ### On repeat lately
 
 <a href="https://music.apple.com/us/album/ghost-town-feat-partynextdoor/1441460375?i=1441460621&uo=4"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/apple-music-dark.svg">
-  <img src="assets/apple-music-light.svg" alt="On repeat on Apple Music: Ghost Town (feat. PARTYNEXTDOOR) by Kanye West" width="560">
+  <img src="assets/apple-music-light.svg" alt="On repeat on Apple Music: Ghost Town (feat. PARTYNEXTDOOR) by Kanye West" width="600">
 </picture></a>
 
 <details>
