@@ -1,188 +1,112 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=120&section=header&text=Naman%20Bagdiya&fontSize=40&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Header"/>
-</div>
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/cover-dark-mobile-static.svg">
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/cover-light-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/cover-dark-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cover-light-static.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/cover-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/cover-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg">
+  <img src="assets/cover-light.svg" width="100%" alt="Naman Bagdiya · Full-stack developer &amp; UI engineer. A compact masthead with a small animated vinyl mark.">
+</picture>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Electron+%26+Desktop+Apps;UI%2FUX+Enthusiast;Music+Technology+Explorer" alt="Typing SVG" />
-</div>
+I'm a **Full-stack developer & UI engineer** in Bengaluru, designing and building thoughtful digital products.  
+Music, football, and my hometown tend to find their way into what I make.
 
-<div align="center">
-  <a href="https://codetime.dev">
-    <img alt="CodeTime Status" src="https://codetime.dev/api/widgets/status.svg?uid=36640&theme=light&style=minimal">
-  </a>
-</div>
+<p>
+  <a href="https://www.namanbagdiya.tech/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg"><img src="assets/link-portfolio-light.svg" height="36" alt="Portfolio"></picture></a> &nbsp;
+  <a href="https://www.glyphcode.studio/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-glyphcode-dark.svg"><img src="assets/link-glyphcode-light.svg" height="36" alt="Glyphcode Studio"></picture></a> &nbsp;
+  <a href="https://www.linkedin.com/in/namanbagdiya/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" height="36" alt="LinkedIn"></picture></a> &nbsp;
+  <a href="https://monkeytype.com/profile/NamanOG"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-monkeytype-dark.svg"><img src="assets/link-monkeytype-light.svg" height="36" alt="Monkeytype"></picture></a> &nbsp;
+  <a href="https://instagram.com/namaan_b"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-instagram-dark.svg"><img src="assets/link-instagram-light.svg" height="36" alt="Instagram"></picture></a> &nbsp;
+  <a href="mailto:namanbagdiya@outlook.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img src="assets/link-email-light.svg" height="36" alt="Email"></picture></a>
+</p>
 
----
+## Selected work
 
-<div align="center">
+### [Kissa](https://kissa.glyphcode.studio/)
 
-  <a href="https://www.linkedin.com/in/namanbagdiya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+A vinyl-inspired listening companion for Windows. Synced lyrics, a turntable,
+and ambient listening rooms, following your active music session.
 
-  <a href="https://instagram.com/namaan_b" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<a href="https://kissa.glyphcode.studio/"><img src="assets/kissa.webp" width="560" alt="Kissa's actual Windows interface, with an album sleeve, vinyl turntable, and playback controls."></a>
 
-  <a href="https://discordapp.com/users/932995196101201951" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+<sub>Electron · React · TypeScript · C#</sub>
 
-  <a href="https://www.hackerrank.com/namanbagdiya" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
+<p><a href="https://github.com/NamanOG/Kissa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-github-dark.svg"><img src="assets/link-github-light.svg" height="36" alt="Kissa source on GitHub"></picture></a> &nbsp; <a href="https://apps.microsoft.com/detail/9p3n4x4wm80j"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-store-dark.svg"><img src="assets/link-store-light.svg" height="36" alt="Kissa on Microsoft Store"></picture></a></p>
 
-  <a href="https://www.namanbagdiya.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
-  </a>
+**[Raipur.life](https://raipur.life/)** &nbsp; A guide to the city I grew up in: places, food, events, and community stories.  
+<sub>React · TypeScript · Supabase</sub>
 
-  <a href="https://music.apple.com/profile/NamanOG" target="_blank">
-    <img src="https://img.shields.io/badge/Apple%20Music-%23FA243C.svg?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music"/>
-  </a>
+<p><a href="https://github.com/NamanOG/raipurlife"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-github-dark.svg"><img src="assets/link-github-light.svg" height="36" alt="Raipur.life source on GitHub"></picture></a> &nbsp; <a href="https://raipur.life/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-live-dark.svg"><img src="assets/link-live-light.svg" height="36" alt="Raipur.life live site"></picture></a></p>
 
-  <a href="https://monkeytype.com/user/NamanOG" target="_blank">
-    <img src="https://img.shields.io/badge/Monkeytype-%23FFD700.svg?style=for-the-badge&logo=monkeytype&logoColor=white" alt="Monkeytype"/>
-  </a>
+**[Casa del Fútbol](https://casadelfutbol.vercel.app/)** &nbsp; Clubs, leagues, tactical stories, and interactive football experiences.  
+<sub>Next.js · TypeScript</sub>
 
-</div>
+<p><a href="https://github.com/NamanOG/CasaDelFutbol"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-github-dark.svg"><img src="assets/link-github-light.svg" height="36" alt="Casa del Fútbol source on GitHub"></picture></a> &nbsp; <a href="https://casadelfutbol.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-live-dark.svg"><img src="assets/link-live-light.svg" height="36" alt="Casa del Fútbol live site"></picture></a></p>
 
----
+**[Karobar](https://karobar-game.vercel.app/)** &nbsp; A multiplayer property-trading board game. Best played with friends who can take a loss.  
+<sub>Multiplayer · Web game</sub>
 
-## 👨‍💻 About Me
+<p><a href="https://github.com/NamanOG/Karobar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-github-dark.svg"><img src="assets/link-github-light.svg" height="36" alt="Karobar source on GitHub"></picture></a> &nbsp; <a href="https://karobar-game.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-play-dark.svg"><img src="assets/link-play-light.svg" height="36" alt="Play Karobar"></picture></a></p>
 
-I'm a Computer Science student and developer who enjoys building **polished, interactive products** where engineering, design, and real-world usability come together.
+**[Mercedes-AMG F1](https://amg-formula1.vercel.app/)** &nbsp; Race weekend showcase and telemetry interactive experience for Mercedes-AMG Petronas.  
+<sub>Next.js · TypeScript</sub>
 
-- 📍 Based in **Raipur, Chhattisgarh** | 🎓 **B.E. in CS Engineering** at RV Institute of Technology, Bangalore
-- 💻 Full-stack web applications & desktop software | 🖥️ Electron & system-level integrations
-- 🎨 UI/UX design & motion | 🎵 Music technology & interactive experiences
+<p><a href="https://github.com/NamanOG/AMG-Formula1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-github-dark.svg"><img src="assets/link-github-light.svg" height="36" alt="Mercedes-AMG F1 source on GitHub"></picture></a> &nbsp; <a href="https://amg-formula1.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-live-dark.svg"><img src="assets/link-live-light.svg" height="36" alt="Mercedes-AMG F1 live site"></picture></a></p>
 
----
+## Toolbox
 
-## 🎧 Now Exploring
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/tech-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/tech-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-dark.svg">
+  <img src="assets/tech-light.svg" width="100%" alt="Languages: TypeScript, JavaScript, Python, Java, C/C++. Frontend: React, Next.js, Tailwind CSS, HTML, CSS. Backend: Node.js, Express, REST APIs. Tools: Git, Figma, Docker, Vercel, DaVinci Resolve.">
+</picture>
 
-<div align="center">
+<sub>For Kissa: Electron, React, TypeScript, and C#.</sub>
 
-> 🎵 **Music is my creative fuel** — Building experiences that feel tactile, responsive, and beautiful
+## After hours
 
-</div>
+The contribution calendar, taking the scenic route.
 
----
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="stats/contributions-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="stats/contributions-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NamanOG/NamanOG/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/NamanOG/NamanOG/output/github-snake.svg" alt="NamanOG's contribution calendar animated as a snake, with a static calendar for reduced motion." width="100%">
+</picture>
 
-## 🚀 Featured Work
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/streak-dark.svg">
+  <img src="stats/streak-light.svg" alt="NamanOG coding cadence and streak: current streak, annual output, and 14-day velocity" width="100%">
+</picture>
 
-### 🎧 [Kissa](https://github.com/NamanOG/Kissa) — *Premium Desktop Music Player*
-Interactive **vinyl-inspired listening experience** with hi-fi spectrum visualization, real-time lyrics, and 60–120 FPS smooth interactions. `v4.0.0` | **[Explore](https://github.com/NamanOG/Kissa)**
+### On repeat lately
 
-### 🌆 [Raipur.life](https://github.com/NamanOG/raipurlife) — *Local Discovery Platform*
-Community-driven guide to **Raipur & Chhattisgarh** with food, events, and tourism. **[Visit](https://raipur.life/)**
+<a href="https://music.apple.com/us/album/ghost-town-feat-partynextdoor/1441460375?i=1441460621&uo=4"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/apple-music-dark.svg">
+  <img src="assets/apple-music-light.svg" alt="On repeat on Apple Music: Ghost Town (feat. PARTYNEXTDOOR) by Kanye West" width="560">
+</picture></a>
 
-### ⚽ [Casa Del Futbol](https://github.com/NamanOG/CasaDelFutbol) — *2026 FIFA World Cup Hub*
-Interactive tournament experience with stadiums, nation pages, and tactical visualizations. **[Explore](https://github.com/NamanOG/CasaDelFutbol)**
+<details>
+<summary>Activity &amp; milestones</summary>
 
-### 🏎️ [F1 Station](https://github.com/NamanOG/AMG-Formula1) — *Formula 1 Platform*
-Team stats, standings, drivers, and race data in a fast, visual interface.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/activity-dark.svg">
+  <img src="stats/activity-light.svg" alt="Daily GitHub contributions over the last 31 days, with the total and refresh date shown in the chart." width="100%">
+</picture>
 
-### 🎵 [Music Station](https://github.com/NamanOG/Apple-Music) — *Interactive Turntable*
-Experimental music-player recreating physical hardware through a modern web experience.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats/trophy-dark.svg">
+  <img src="stats/trophy-light.svg" alt="GitHub Profile Trophy milestones for commits, repositories, and stars." width="330">
+</picture>
 
-<details open>
-<summary><b>→ More Projects</b></summary>
-
-| 🍱 [EdenNori](https://github.com/NamanOG/EdenNori) | 🛣️ [RoadWatch](https://github.com/NamanOG/RoadWatch) | 🔗 [LinkFolio](https://github.com/NamanOG/LinkFolio) | 🎰 [Pinball](https://github.com/NamanOG/WindowsXP-Pinball) | 🎨 [Awesome Profiles](https://github.com/NamanOG/awesome-github-profiles) |
-|---|---|---|---|---|
+<sub>Activity comes from GitHub's public calendar. Milestones are generated by <a href="https://github.com/ryo-ma/github-profile-trophy">GitHub Profile Trophy</a>.</sub>
 
 </details>
 
 ---
 
-## 💪 Skill Proficiency Matrix
+<sub>Fuelled by caffeine and music on loop. Usually building something, listening to music, or watching football.</sub>
 
-<div align="center">
-
-### Core Competencies
-
-```
-TypeScript/JavaScript  ████████████████████ 95%
-React & Next.js       ████████████████████ 94%
-Electron & Desktop    ████████████████░░░░ 88%
-UI/UX & Animation     ███████████████░░░░░ 85%
-Node.js & Backend     ███████████████░░░░░ 84%
-Web Performance       ██████████████░░░░░░ 82%
-System Integration    █████████████░░░░░░░ 78%
-Database Design       ██████████████░░░░░░ 80%
-```
-
-### Tech Ecosystem
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,electron,tailwind,vite,mongodb,supabase,git,github,figma,vercel&theme=dark&perline=8" />
-</p>
-
-</div>
-
----
-
-## 📊 GitHub Stats & Achievements
-
-<div align="center">
-
-### 🏆 Real GitHub Statistics
-
-| Metric | Count |
-|--------|-------|
-| 📦 **Public Repositories** | [16](https://github.com/NamanOG?tab=repositories) |
-| ⭐ **Total Stars** | 5 |
-| 🔀 **Forks Received** | 5 |
-| 🎯 **Focus Areas** | Full-Stack, Desktop Apps, UI/UX |
-
-### 📈 GitHub Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NamanOG&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)
-
-### 🐍 Contribution Snake
-
-![GitHub Contribution Snake](https://github.com/NamanOG/NamanOG/blob/output/github-snake-dark.svg)
-
-</div>
-
----
-
-## 🎵 Music & Creative Interests
-
-> I'm passionate about building **beautiful, functional products** that blend music, technology, and design.
-
-- 🎛️ Music technology & audio processing
-- 🎨 Interactive UI/UX with motion & animation
-- 🖼️ Visual design & product polish
-- 🎶 Vinyl culture & analog aesthetics
-- 🎧 Audio visualization & spectrum analysis
-
-**Curated Spaces:** [Apple Music](https://music.apple.com/profile/NamanOG) • [Monkeytype](https://monkeytype.com/user/NamanOG)
-
----
-
-## 🔗 Connect & Explore
-
-<div align="center">
-
-<a href="https://www.namanbagdiya.tech/">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/namanbagdiya/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/NamanOG">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=NamanOG&style=for-the-badge&color=58a6ff&label=Visitors)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099CC,100:7209B7&height=100&section=footer&width=100%" alt="Footer"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=NamanOG&amp;style=flat-square&amp;color=626b65&amp;label=profile+views" alt="Profile image-load counter from Komarev; not a count of unique visitors.">
