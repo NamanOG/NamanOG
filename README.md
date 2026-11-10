@@ -28,7 +28,7 @@ Music, football, and my hometown tend to find their way into what I make.
 A vinyl-inspired listening companion for Windows. Synced lyrics, a turntable,
 and ambient listening rooms, following your active music session.
 
-<a href="https://kissa.glyphcode.studio/"><img src="assets/kissa.webp" width="560" alt="Kissa's actual Windows interface, with an album sleeve, vinyl turntable, and playback controls."></a>
+<a href="https://kissa.glyphcode.studio/"><img src="assets/kissa-new.png" width="560" alt="Kissa's actual Windows interface, with an album sleeve, vinyl turntable, and playback controls."></a>
 
 <sub>Electron · React · TypeScript · C#</sub>
 
